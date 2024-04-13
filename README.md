@@ -1,6 +1,6 @@
-###### - University of Leeds Computer Science Student
-###### - Computer Science Tutor with FunTech
-###### - Charity Secretary at LUU CompSoc
+#### - University of Leeds Computer Science Student
+#### - Computer Science Tutor with FunTech
+#### - Charity Secretary at LUU CompSoc
 
 
 <!--
