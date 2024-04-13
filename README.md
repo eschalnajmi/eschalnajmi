@@ -1,4 +1,7 @@
-### Hi there 👋
+###### - University of Leeds Computer Science Student
+###### - Computer Science Tutor with FunTech
+###### - Charity Secretary at LUU CompSoc
+
 
 <!--
 **eschalnajmi/eschalnajmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
