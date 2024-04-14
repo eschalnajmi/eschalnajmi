@@ -1,6 +1,6 @@
-#### - University of Leeds Computer Science Student
-#### - Computer Science Tutor with FunTech
-#### - Charity Secretary at LUU CompSoc
+### - University of Leeds Computer Science Student
+### - Computer Science Tutor with FunTech
+### - Charity Secretary at LUU CompSoc
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eschalnajmi&label=Profile%20views&color=0e75b6&style=flat" alt="eschalnajmi" /> </p>
 
