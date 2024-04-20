@@ -2,8 +2,6 @@
 ### - Computer Science Tutor with FunTech
 ### - Charity Secretary at LUU CompSoc
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eschalnajmi&label=Profile%20views&color=0e75b6&style=flat" alt="eschalnajmi" /> </p>
-
 - 📫 How to reach me **eschal.najmi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
